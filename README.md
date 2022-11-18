@@ -65,7 +65,7 @@ There is a slight correlation between increasing distance to the nearest alley a
 
 But there is a negative correlation between the average score and the number of alleys within 5 miles of the school.
 
-![Number of Alleys Within 10 Miles vs. Average Individual Pinfall](images\num10-avg_ind.jpg "Number of Alleys Within 10 Miles vs. Average Individual Pinfall")
+![Number of Alleys Within 10 Miles vs. Average Individual Pinfall](images/num10-avg_ind.jpg "Number of Alleys Within 10 Miles vs. Average Individual Pinfall")
 
 And likewise with a radius of 10 miles.
 Note: jitter has been added to the y-axis for both of these plots to reduce ovelap between markers. The number of alleys within the radius is discrete.
