@@ -49,19 +49,19 @@ This project was developed under Python 3, most recently with version 3.10.4. It
 ## Conclusions
 
 ### Some Plots
-![Median Income vs. Average Individual Pinfall](images\med_inc-avg_ind.jpg "Median Income vs. Average Individual Pinfall")
+![Median Income vs. Average Individual Pinfall](images/med_inc-avg_ind.jpg "Median Income vs. Average Individual Pinfall")
 
 The average of each schools' individual bowlers' scores do not show a strong correlation with the median income for the ZIP Code™ where the school is located.
 
-![Median Income vs. Average Individual Pinfall Under 150](images\med_inc-avg_ind_low.jpg "Median Income vs. Average Individual Pinfall Under 150")
+![Median Income vs. Average Individual Pinfall Under 150](images/med_inc-avg_ind_low.jpg "Median Income vs. Average Individual Pinfall Under 150")
 
 There is some correlation between these variables on the lower end of the scores, however.
 
-![Distance to Nearest Alley vs. Average Individual Pinfall](images\dist-avg_ind.jpg "Distance to Nearest Alley vs. Average Individual Pinfall")
+![Distance to Nearest Alley vs. Average Individual Pinfall](images/dist-avg_ind.jpg "Distance to Nearest Alley vs. Average Individual Pinfall")
 
 There is a slight correlation between increasing distance to the nearest alley and increased score.
 
-![Number of Alleys Within 5 Miles vs. Average Individual Pinfall](images\num5-avg_ind.jpg "Number of Alleys Within 5 Miles vs. Average Individual Pinfall")
+![Number of Alleys Within 5 Miles vs. Average Individual Pinfall](images/num5-avg_ind.jpg "Number of Alleys Within 5 Miles vs. Average Individual Pinfall")
 
 But there is a negative correlation between the average score and the number of alleys within 5 miles of the school.
 
